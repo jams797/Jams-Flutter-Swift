@@ -5,7 +5,7 @@ Proyecto en flutter con componentes nativos de iOS (Swift) para el scaneo del QR
 ## Tabla de contenidos:
 ---
 
-- [Complementos/Funcionalidades](complementosfuncionalidades)
+- [Complementos/Funcionalidades](#complementosfuncionalidades)
 - [Pantallas](#pantallas)
 - [Requisitos](#requisitos)
 - [Instalación/Configuración](#instalaciónconfiguración)
@@ -42,7 +42,7 @@ Desarrollada con Flutter y módulos nativos
 ## Pantallas
 | Splash | Login | Home | Result |Scan QR |
 |--------|-------|------|--------|--------|
-| ![Splash](screens/Splash.png) | ![Login](screens/login.png)| ![Home](screens/ListScan.png) | ![Result](screens/ResultScan.png) |![Scan](assets/Scan.png)
+| ![Splash](screens/Splash.png) | ![Login](screens/Login.png)| ![Home](screens/ListScan.png) | ![Result](screens/ResultScan.png) |![Scan](screens/Scan.png)
 
 ## Requisitos
 - Xcode 12.0 o superior
